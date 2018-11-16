@@ -37,5 +37,4 @@ azure mobile services - https://azure.microsoft.com/en-us/documentation/services
 Contributors are most welcome, fork the code and submit a pull request !
 
 
-aidancasey@gmail.com
 
